@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`< Form /> matches snapshot 1`] = `
+Array [
+  <form
+    onSubmit={[Function]}
+  >
+    <input
+      onChange={[Function]}
+      type="text"
+    />
+    <button
+      type="submit"
+    >
+      Change 
+       name
+    </button>
+  </form>,
+  <div>
+    <div>
+      Name:
+       
+    </div>
+    <div>
+      # of Updates: 
+       
+    </div>
+  </div>,
+]
+`;
