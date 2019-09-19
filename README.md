@@ -27,7 +27,7 @@ This repo contains the assignemt 3 files. Here are the rest of assignments I did
 
 * [submission PR](http://xyz.com)
 
-* [travis](https://www.travis-ci.com/)
+* [travis](https://www.travis-ci.com/401-advanced-javascript-hanna-alemu/Lab-28-Props-and-State/)
 
 * [Heroku](https://lab-28.herokuapp.com/)
 
