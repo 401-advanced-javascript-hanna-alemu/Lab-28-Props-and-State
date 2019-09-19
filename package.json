@@ -1,0 +1,54 @@
+{
+  "name": "review",
+  "version": "1.0.0",
+  "description": "\"test\": \"react-scripts test --env=jsdom\",\r     \"start\": \"react-scripts start\",\r     \"build\": \"react-scripts build\",\r     \"docs\": \"styleguidist server\",\r     \"docs:build\": \"styleguidist build\",\r     \"lint\": \"eslint src/**/*.js\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "react-scripts test --env=jsdom",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "docs": "styleguidist server",
+    "docs:build": "styleguidist build",
+    "lint": "eslint src/**/*.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "create-react-app": "^3.1.1",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jest": "^22.17.0",
+    "eslint-plugin-react": "^7.14.3",
+    "node-sass": "^4.12.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-scripts": "^3.1.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "enzyme": "^3.10.0",
+    "enzyme-adapter-react-16": "^1.14.0",
+    "react-styleguidist": "^9.1.16",
+    "react-test-renderer": "^16.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-hanna-alemu/Lab-28-Props-and-State.git"
+  },
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-hanna-alemu/Lab-28-Props-and-State/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-hanna-alemu/Lab-28-Props-and-State#readme"
+}
