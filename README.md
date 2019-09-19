@@ -27,13 +27,9 @@ This repo contains the assignemt 3 files. Here are the rest of assignments I did
 
 * [submission PR](http://xyz.com)
 
-* [travis](https://www.travis-ci.com/401-advanced-javascript-hanna-alemu/Lab-27-Deployment/builds/128112427)
+* [travis](https://www.travis-ci.com/)
 
-* [Amazon S3 bucket](http://hanna-alemu-lab-27.s3-website-us-west-2.amazonaws.com/) 
-
-* [Amazon Amplify](https://master.d93u222e43m14.amplifyapp.com/)
-
-* [Netlify](netlify https://vigorous-archimedes-87bad7.netlify.com/)
+* [Heroku](https://lab-28.herokuapp.com/)
 
 #### Documentation
 
@@ -47,4 +43,4 @@ $ npm run test
 
 
 #### UML
-![Image](./IMG_0096.jpg)
+![Image](./IMG_0108.jpg)
